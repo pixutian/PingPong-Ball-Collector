@@ -1,0 +1,45 @@
+# Keil / ARM build outputs
+OBJ/
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.uvguix.*
+*.hex
+*.axf
+*.bin
+*.o
+*.d
+*.crf
+*.lnp
+*.sct
+*.dep
+*.build_log.htm
+*.htm
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.bak
+*.zip
+
+# Large media / local-only
+media/demo-raw.mp4
+
+
+# Android app build outputs
+app/build/
+*.jks
+*.keystore
+
+# IDE / Android
+.idea/
+*.iml
+.gradle/
+local.properties
+captures/
+*.log
+
+# Python (tooling)
+__pycache__/
+*.pyc

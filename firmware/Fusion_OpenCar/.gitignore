@@ -1,0 +1,10 @@
+# Keil 编译中间产物
+Objects/
+Listings/
+*.uvguix.*
+*.scvd
+*.bak
+
+# 调试 / 版本控制辅助文件
+RTE/
+DebugConfig/
